@@ -1,10 +1,10 @@
 {
-    "name": "@avonni/base-components-sfdx",
+    "name": "@bricembouani/avoni",
     "description": "Base components sfdx",
     "version": "0.0.9",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/avonni/base-components-sfdx.git"
+        "url": "git+https://github.com/bricembouani/avoni.git"
     },
     "license": "MIT",
     "devDependencies": {
