@@ -6,7 +6,7 @@
  */
 
 import { numberFormatFallback } from './numberFormatFallback';
-import { normalizeOptions, exceedsSafeLength, getFromCache } from './utilities';
+import { normalizeOptions, exceedsSafeLength, getFromCache } from './utils';
 
 export function numberFormat(options) {
     const normalizedOpts = Object.assign({}, normalizeOptions(options));
