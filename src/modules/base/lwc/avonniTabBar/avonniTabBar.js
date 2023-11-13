@@ -31,8 +31,8 @@
  */
 
 import { LightningElement, api, track } from 'lwc';
-import { classSet } from 'c/utils';
-import { generateUUID } from 'c/utils';
+import { classSet } from 'c/utilities';
+import { generateUUID } from 'c/utilities';
 import { normalizeArray } from 'c/utilsPrivate';
 
 /**

@@ -43,7 +43,7 @@ import {
     equal
 } from 'c/utilsPrivate';
 import SchedulerHeader from './avonniSchedulerHeader';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 
 const UNITS = ['minute', 'hour', 'day', 'week', 'month', 'year'];
 const DEFAULT_START_DATE = new Date();

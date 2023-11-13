@@ -32,7 +32,7 @@
 
 import { LightningElement, api } from 'lwc';
 import { normalizeString } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 
 const HORIZONTAL_ALIGNMENT_OPTIONS = {
     valid: ['left', 'center', 'right'],

@@ -32,7 +32,7 @@
 
 import { LightningElement, api } from 'lwc';
 import { normalizeString, normalizeBoolean } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import pageHeader from './avonniPageHeader.html';
 import pageHeaderVertical from './avonniPageHeaderVertical.html';
 import { computeSldsClass } from 'c/iconUtils';

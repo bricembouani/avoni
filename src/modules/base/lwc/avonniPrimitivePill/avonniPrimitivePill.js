@@ -32,7 +32,7 @@
 
 import { LightningElement, api } from 'lwc';
 import { normalizeArray, normalizeString, keyCodes } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 
 const VARIANTS = {
     valid: ['base', 'list'],

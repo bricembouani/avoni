@@ -32,7 +32,7 @@
 
 import { LightningElement, api } from 'lwc';
 import { normalizeBoolean, normalizeString } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import visualPickerLink from './avonniVisualPickerLink.html';
 import visualPickerLinkInfoOnly from './avonniVisualPickerLinkInfoOnly.html';
 

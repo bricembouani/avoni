@@ -32,7 +32,7 @@
 
 import { LightningElement, api } from 'lwc';
 import { normalizeBoolean, normalizeString } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 
 const PROGRESS_RING_VARIANTS = {
     valid: ['base', 'active-step', 'warning', 'expired', 'base-autocomplete'],

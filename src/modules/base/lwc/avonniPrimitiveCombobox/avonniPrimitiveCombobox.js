@@ -42,7 +42,7 @@ import {
     classListMutation
 } from 'c/utilsPrivate';
 import { InteractingState, FieldConstraintApi } from 'c/inputUtils';
-import { classSet, generateUUID } from 'c/utils';
+import { classSet, generateUUID } from 'c/utilities';
 import { AutoPosition, Direction } from 'c/positionLibrary';
 
 const DROPDOWN_ALIGNMENTS = {

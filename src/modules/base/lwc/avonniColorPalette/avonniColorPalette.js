@@ -38,7 +38,7 @@ import {
     generateColors,
     isLightColor
 } from 'c/utilsPrivate';
-import { classSet, generateUUID } from 'c/utils';
+import { classSet, generateUUID } from 'c/utilities';
 import grid from './avonniGrid.html';
 import list from './avonniList.html';
 

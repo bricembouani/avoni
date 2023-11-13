@@ -32,7 +32,7 @@
 
 import { LightningElement, api, track } from 'lwc';
 import { TreeData } from './avonniTreeData';
-import { generateUUID } from 'c/utils';
+import { generateUUID } from 'c/utilities';
 import {
     keyCodes,
     deepCopy,

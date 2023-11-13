@@ -38,7 +38,7 @@ import {
     classListMutation,
     deepCopy
 } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 
 const DROPDOWN_ALIGNMENTS = {
     valid: [

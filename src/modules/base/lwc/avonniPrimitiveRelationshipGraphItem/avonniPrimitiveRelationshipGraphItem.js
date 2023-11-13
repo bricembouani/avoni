@@ -31,7 +31,7 @@
  */
 
 import { LightningElement, api } from 'lwc';
-import { generateUUID, classSet } from 'c/utils';
+import { generateUUID, classSet } from 'c/utilities';
 import { normalizeArray, normalizeString } from 'c/utilsPrivate';
 
 const RELATIONSHIP_GRAPH_GROUP_VARIANTS = {

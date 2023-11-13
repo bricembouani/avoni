@@ -35,7 +35,7 @@ import { normalizeBoolean, normalizeString } from 'c/utilsPrivate';
 import BwipJs from '@salesforce/resourceUrl/BwipJs';
 import { ShowToastEvent } from 'lightning/platformShowToastEvent';
 import { loadScript } from 'lightning/platformResourceLoader'
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 
 const BARCODE_TYPES = [
     'auspost',

@@ -30,7 +30,7 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 
 /**
  * One day of the agenda.

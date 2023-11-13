@@ -37,7 +37,7 @@ import {
     normalizeArray,
     normalizeString
 } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import {
     DEFAULT_START_DATE,
     HEADERS,

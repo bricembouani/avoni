@@ -32,7 +32,7 @@
 
 import { LightningElement, api } from 'lwc';
 import { normalizeBoolean, normalizeString } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import { FieldConstraintApiWithProxyInput } from 'c/inputUtils';
 
 const DEFAULT_MIN = 0;

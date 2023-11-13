@@ -37,7 +37,7 @@ import {
     normalizeString,
     keyCodes
 } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import { FieldConstraintApi, InteractingState } from 'c/inputUtils';
 
 const DATE_TYPES = {

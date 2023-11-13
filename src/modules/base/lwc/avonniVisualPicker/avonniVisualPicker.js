@@ -31,7 +31,7 @@
  */
 
 import { LightningElement, api } from 'lwc';
-import { classSet, generateUUID } from 'c/utils';
+import { classSet, generateUUID } from 'c/utilities';
 import {
     normalizeBoolean,
     normalizeString,

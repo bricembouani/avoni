@@ -37,7 +37,7 @@ import {
     normalizeBoolean,
     normalizeArray
 } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import { AvonniResizeObserver } from 'c/resizeObserver';
 
 const DEFAULT_ALTERNATIVE_TEXT = 'Selected Options:';

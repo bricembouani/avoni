@@ -31,7 +31,7 @@
  */
 
 import { LightningElement, api } from 'lwc';
-import { classSet, generateUUID } from 'c/utils';
+import { classSet, generateUUID } from 'c/utilities';
 import { keyCodes, normalizeString, normalizeArray } from 'c/utilsPrivate';
 
 const AVATAR_GROUP_SIZES = {

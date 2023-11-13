@@ -30,7 +30,7 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-import { generateUUID } from 'c/utils';
+import { generateUUID } from 'c/utilities';
 import {
     dateTimeObjectFrom,
     addToDate,

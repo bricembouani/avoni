@@ -44,7 +44,7 @@ import {
     timeout
 } from 'c/utilsPrivate';
 import { numberFormat } from 'c/internationalizationLibrary';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import { Tooltip } from 'c/tooltipLibrary';
 import {
     Direction,

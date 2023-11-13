@@ -38,7 +38,7 @@ import {
     normalizeObject,
     normalizeString
 } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import Menu from './avonniMenu';
 
 const MENU_VARIANTS = {

@@ -38,7 +38,7 @@ import {
     deepCopy
 } from 'c/utilsPrivate';
 import { FieldConstraintApiWithProxyInput } from 'c/inputUtils';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import { StraightToolManager } from './avonniStraightToolManager';
 import { SmoothToolManager } from './avonniSmoothToolManager';
 import { AvonniResizeObserver } from 'c/resizeObserver';

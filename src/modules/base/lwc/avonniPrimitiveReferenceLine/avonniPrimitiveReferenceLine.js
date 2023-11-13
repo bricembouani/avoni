@@ -31,7 +31,7 @@
  */
 
 import { LightningElement, api } from 'lwc';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import { normalizeString } from 'c/utilsPrivate';
 
 const REFERENCE_VARIANTS = {

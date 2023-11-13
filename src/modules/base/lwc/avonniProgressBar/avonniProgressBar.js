@@ -36,7 +36,7 @@ import {
     normalizeString,
     normalizeArray
 } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import progressBar from './avonniProgressBar.html';
 import progressBarVertical from './avonniProgressBarVertical.html';
 

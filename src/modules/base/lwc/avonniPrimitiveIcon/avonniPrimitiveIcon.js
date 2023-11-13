@@ -31,7 +31,7 @@
  */
 
 import { LightningElement, api } from 'lwc';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import { normalizeString as normalize } from 'c/utilsPrivate';
 import * as iconUtils from 'c/iconUtils';
 import standardTemplate from './avonniPrimitiveIcon.html';

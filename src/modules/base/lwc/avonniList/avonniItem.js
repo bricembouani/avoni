@@ -1,5 +1,5 @@
 import { normalizeArray } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 
 export default class AvonniItem {
     constructor(value) {

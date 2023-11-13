@@ -40,7 +40,7 @@ import {
     normalizeArray
 } from 'c/utilsPrivate';
 import { FieldConstraintApi, InteractingState } from 'c/inputUtils';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import { TIME_ZONES } from './avonniTimezones';
 import { DateTime } from 'c/luxon';
 

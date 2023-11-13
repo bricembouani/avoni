@@ -32,7 +32,7 @@
 
 import { LightningElement, api } from 'lwc';
 import { normalizeArray, normalizeBoolean } from 'c/utilsPrivate';
-import { generateUUID } from 'c/utils';
+import { generateUUID } from 'c/utilities';
 
 export default class AvonniPrimitiveComboboxGroup extends LightningElement {
     @api label;

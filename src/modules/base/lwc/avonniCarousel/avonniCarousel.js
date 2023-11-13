@@ -38,7 +38,7 @@ import {
     normalizeArray
 } from 'c/utilsPrivate';
 import { AvonniResizeObserver } from 'c/resizeObserver';
-import { generateUUID } from 'c/utils';
+import { generateUUID } from 'c/utilities';
 
 const INDICATOR_ACTION =
     'slds-carousel__indicator-action avonni-carousel__progress-indicator_inactive';

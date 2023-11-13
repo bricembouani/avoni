@@ -41,7 +41,7 @@ import {
     keyCodes,
     deepCopy
 } from 'c/utilsPrivate';
-import { generateUUID, classSet } from 'c/utils';
+import { generateUUID, classSet } from 'c/utilities';
 import CalendarDate from './avonniDate';
 
 const DAYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];

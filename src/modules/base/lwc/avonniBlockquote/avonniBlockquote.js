@@ -32,7 +32,7 @@
 
 import { LightningElement, api } from 'lwc';
 import { normalizeString } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 
 const BLOCKQUOTE_VARIANTS = {
     valid: ['default', 'brand', 'warning', 'error', 'success'],

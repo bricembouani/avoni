@@ -49,7 +49,7 @@ import {
     previousAllowedMonth,
     previousAllowedTime
 } from 'c/avonniSchedulerUtils';
-import { classSet, generateUUID } from 'c/utils';
+import { classSet, generateUUID } from 'c/utilities';
 import {
     EDIT_MODES,
     EVENTS_THEMES,

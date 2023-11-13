@@ -43,7 +43,7 @@ import {
     ScheduleBase
 } from 'c/avonniSchedulerUtils';
 import DayGroup from './avonniDayGroup';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 
 const DEFAULT_SELECTED_DATE = new Date();
 const SIDE_PANEL_POSITIONS = {

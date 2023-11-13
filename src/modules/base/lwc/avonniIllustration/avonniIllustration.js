@@ -32,7 +32,7 @@
 
 import { LightningElement, api } from 'lwc';
 import { normalizeString } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import SVG_URL from '@salesforce/resourceUrl/illustrationLibrary';
 
 const validSizes = ['small', 'large'];

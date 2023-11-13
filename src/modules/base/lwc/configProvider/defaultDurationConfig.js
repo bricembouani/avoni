@@ -38,7 +38,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RelativeTimeFormat#Browser_compatibility
 
 // The following two labels will be used even on browsers that support Intl.RelativeTimeFormat
-import { formatLabel } from 'c/utils';
+import { formatLabel } from 'c/utilities';
 
 // These labels will only be used as fallback in browsers that do not support Intl.RelativeTimeFormat
 const fallbackFutureLabel = 'in {0} {1}'; // e.g. in 1 minute

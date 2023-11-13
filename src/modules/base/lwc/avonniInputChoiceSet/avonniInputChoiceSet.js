@@ -45,7 +45,7 @@ import {
     normalizeVariant,
     VARIANT
 } from 'c/inputUtils';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import InputChoiceOption from './avonniInputChoiceOption';
 
 const i18n = {

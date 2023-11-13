@@ -38,7 +38,7 @@ import {
     getRealDOMId,
     getListHeight
 } from 'c/utilsPrivate';
-import { classSet, formatLabel, generateUUID } from 'c/utils';
+import { classSet, formatLabel, generateUUID } from 'c/utilities';
 import { FieldConstraintApi, InteractingState } from 'c/inputUtils';
 import { handleKeyDownOnOption } from './avonniKeyboard';
 

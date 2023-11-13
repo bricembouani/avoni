@@ -40,8 +40,8 @@ import {
     normalizeArray
 } from 'c/utilsPrivate';
 import { FieldConstraintApi, InteractingState } from 'c/inputUtils';
-import { classSet } from 'c/utils';
-import { generateUUID } from 'c/utils';
+import { classSet } from 'c/utilities';
+import { generateUUID } from 'c/utilities';
 import standard from './avonniStandard.html';
 import inline from './avonniInline.html';
 

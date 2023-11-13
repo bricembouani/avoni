@@ -31,7 +31,7 @@
  */
 
 import { LightningElement, api } from 'lwc';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import { normalizeString, normalizeArray } from 'c/utilsPrivate';
 import { computeSldsClass } from 'c/iconUtils';
 

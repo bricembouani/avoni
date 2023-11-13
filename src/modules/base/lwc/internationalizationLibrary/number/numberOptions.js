@@ -10,7 +10,7 @@ import {
     updateIntegerPart,
     updateCurrencySymbol,
     getCurrency
-} from './utils';
+} from './utilities';
 
 const numberFormat = '#, ##0.###';
 const percentFormat = '#, ###0%';

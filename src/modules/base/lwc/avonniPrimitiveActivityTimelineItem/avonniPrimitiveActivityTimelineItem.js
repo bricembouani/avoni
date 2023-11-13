@@ -40,7 +40,7 @@ import {
 } from 'c/utilsPrivate';
 
 import { AvonniResizeObserver } from 'c/resizeObserver';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 
 const BUTTON_ICON_POSITIONS = { valid: ['left', 'right'], default: 'left' };
 const BUTTON_VARIANTS = {

@@ -32,7 +32,7 @@
 
 import { LightningElement, api } from 'lwc';
 import { normalizeString } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 
 const AVATAR_SIZES = {
     valid: ['x-small', 'small', 'medium', 'large', 'x-large'],

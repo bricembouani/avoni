@@ -38,7 +38,7 @@ import {
     addToDate,
     dateTimeObjectFrom
 } from 'c/utilsPrivate';
-import { generateUUID } from 'c/utils';
+import { generateUUID } from 'c/utilities';
 import { Interval } from 'c/luxon';
 import { SchedulerEventOccurrence } from './avonniEventOccurrence';
 import { containsAllowedDateTimes } from './avonniDateComputations';

@@ -36,7 +36,7 @@ import {
     normalizeString,
     normalizeArray
 } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import { Tooltip } from 'c/tooltipLibrary';
 
 const PATH_FORMATS = {

@@ -40,7 +40,7 @@ import {
     normalizeString,
     numberOfUnitsBetweenDates
 } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import Column from './avonniColumn';
 import {
     getElementOnXAxis,

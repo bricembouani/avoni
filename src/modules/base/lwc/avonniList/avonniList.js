@@ -38,7 +38,7 @@ import {
     normalizeObject,
     deepCopy
 } from 'c/utilsPrivate';
-import { classSet, generateUUID } from 'c/utils';
+import { classSet, generateUUID } from 'c/utilities';
 import { AvonniResizeObserver } from 'c/resizeObserver';
 import Item from './avonniItem';
 

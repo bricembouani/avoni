@@ -32,7 +32,7 @@
 
 import { LightningElement, api } from 'lwc';
 import { normalizeString, normalizeBoolean } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import BaseView from './avonniBase.html';
 import ModalView from './avonniModal.html';
 import CardView from './avonniCard.html';

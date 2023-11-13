@@ -32,7 +32,7 @@
 
 import { LightningElement, api, track } from 'lwc';
 import { normalizeBoolean, normalizeString } from 'c/utilsPrivate';
-import { classSet } from 'c/utils';
+import { classSet } from 'c/utilities';
 import { ICON_TYPES } from './avonniIcons/salesforceIcons';
 
 const VARIANTS = {
